@@ -1,6 +1,6 @@
-spring:
-  application:
-      name: gitconfig
+# spring:
+#   application:
+#       name: gitconfig
 eureka:
       instance:
           prefer-ip-address: true
